@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(216, 216, 216);
+    margin-left: 10\%;
+    margin-right: 10\%;
+    font-family: "Liberation Sans", Helvetica, sans-serif;
+}
+
+.red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.black {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    text-align: center;
+}
